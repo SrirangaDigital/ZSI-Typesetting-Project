@@ -73,26 +73,26 @@ body {
 	font-size: 20px;
 	font-family: Sans-serif;
 	font-variant: small-caps;
-	font-weight: bold;
+	font-weight: bold
 	}
 	
 .suborder{
-	font-size: 10px;
+	font-size: 15px;
 	font-family: Sans-serif;
 	font-variant: small-caps;
-	font-weight: bold;
+	font-weight: bold
 	}
 	
 .alpha{
 	font-family: Sans-serif;
 	font-variant: small-caps;
-	font-weight: bold;
+	font-weight: bold
 	}
 
 .family-heading{
 	font-size: 15px;
 	font-family: Sans-serif;
-	font-weight: bold;
+	font-weight: bold
 	}
 	
 
@@ -107,3 +107,10 @@ body {
     font-variant: small-caps;
 }
 
+td{
+	vertical-align: top;
+}
+
+ol.d {
+    list-style-type: lower-alpha;
+}
